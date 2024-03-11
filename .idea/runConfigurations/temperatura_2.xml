@@ -1,5 +1,5 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="programacion" type="PythonConfigurationType" factoryName="Python" folderName="programacion">
+  <configuration default="false" name="temperatura 2" type="PythonConfigurationType" factoryName="Python" folderName="programacion">
     <module name="trabajos-en-clases-de-programacion" />
     <option name="ENV_FILES" value="" />
     <option name="INTERPRETER_OPTIONS" value="" />
