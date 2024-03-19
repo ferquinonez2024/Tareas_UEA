@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$USER_HOME$/PycharmProjects/CalculoDescuentoPython/.idea/CalculoDescuentoPython.iml" filepath="$USER_HOME$/PycharmProjects/CalculoDescuentoPython/.idea/CalculoDescuentoPython.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/trabajos-en-clases-de-programacion.iml" filepath="$PROJECT_DIR$/.idea/trabajos-en-clases-de-programacion.iml" />
     </modules>
   </component>
