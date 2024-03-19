@@ -14,9 +14,9 @@ def calcular_descuento(monto_total, porcentaje_descuento=10):
     descuento = monto_total * porcentaje_descuento / 100
     return descuento
 
-
+    pass
 # Ejemplos de llamadas a la función
-if __name__ == "__main__":
+else:
     # Llamada 1: Proporcionando solo el monto total de la compra
     monto_compra_1 = 100
     descuento_1 = calcular_descuento(monto_compra_1)
