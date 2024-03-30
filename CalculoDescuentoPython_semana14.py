@@ -19,7 +19,6 @@ def calcular_descuento(monto_total, porcentaje_descuento=12):
 monto_compra_1 = 1000
 descuento_1 = calcular_descuento(monto_compra_1)
 monto_final_1 = monto_compra_1 - descuento_1
-
 monto_compra_2 = 2000
 porcentaje_descuento_2 = 22
 descuento_2 = calcular_descuento(monto_compra_2, porcentaje_descuento_2)
